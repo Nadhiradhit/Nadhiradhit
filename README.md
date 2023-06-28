@@ -6,7 +6,7 @@
 
 - 📖 I'm currently learning **react.js, next.js**
 
-- 📫 How to reach me **nadhiradhitya@gmail.com**
+- 🃏 I think i'm funny hehe
 
 
 <h3 align="left">Languages and Tools:</h3>
