@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone 👋, I'm Nadhir Adhitya Zhalifunnas</h1>
 <div align="center"><img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif"></div>
-<h3 align="center">I'm interested with frontend development, I'm a collage student at Politeknik Negeri Media Kreatif.</h3>
+<h3 align="center">I'm interested with Full Stack Developer, I'm a collage student at Politeknik Negeri Media Kreatif.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhiradhit&label=Seen&color=accadc&style=flat-square" alt="nadhiradhit" /> </p>
 
