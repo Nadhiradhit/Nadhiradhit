@@ -14,3 +14,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadhiradhit&show_icons=true&theme=radical&locale=en&layout=compact" alt="nadhiradhit" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadhiradhit&show_icons=true&locale=en" alt="nadhiradhit" /></p>
+
