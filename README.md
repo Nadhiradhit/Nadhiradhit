@@ -15,8 +15,8 @@
 ##My Statistic
 <p align="left">
 <a href="https://github.com/Nadhiradhit">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhiradhit&layout=compact&theme=algolia"/>
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=nadhiradhit&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&rank_icon=github"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhiradhit&layout=compact&theme=algolia"/>
 </a>
 </p>
 
