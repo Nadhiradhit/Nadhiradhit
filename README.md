@@ -1,4 +1,4 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nadhir Adhitya Zhalifunnas
+Hello everyone ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nadhir Adhitya Zhalifunnas
 ==================================================================================================================================================
 <div align="center"><img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif"></div>
 <h3 align="center">I'm interested with Full Stack Developer and Software Engineer I'm a collage student at Politeknik Negeri Media Kreatif.</h3>
