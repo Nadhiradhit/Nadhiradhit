@@ -6,7 +6,7 @@ Hello Everyone!, ![](https://user-images.githubusercontent.com/18350557/17630978
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhiradhit&label=Seen&color=accadc&style=flat-square" alt="nadhiradhit" /> </p>
 
 - 🛠️ I Experienced :
-     - Web Developer : HTML, CSS , JavaScript, PHP, Laravel, TailwindCSS, DaisyUI, BootstrapCSS, Node.js, Next.js
+     - Web Developer : HTML, CSS , JavaScript, PHP, Laravel, TailwindCSS, BootstrapCSS, Node.js, Next.js, React.js
      - Database Management : MySQL, MariaDB
 
 - 🃏 Fun Fact From Me : I liked to play counter-strike and watch a movie if i'm free.
