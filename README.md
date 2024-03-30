@@ -9,7 +9,7 @@ Hello Everyone!, ![](https://user-images.githubusercontent.com/18350557/17630978
      - Web Developer : HTML, CSS , JavaScript, PHP, Laravel, TailwindCSS, BootstrapCSS, Node.js, Next.js, React.js
      - Database Management : MySQL, MariaDB
 
-- 🃏 Fun Fact From Me : I liked to play counter-strike and watch a movie if i'm free.
+- 🃏 Fun Fact From Me : I liked to play counter-strike and watch a movie if i'm free. And i want to be Gojo Satorou.
 
 
 ### My Skills
