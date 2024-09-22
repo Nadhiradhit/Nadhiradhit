@@ -9,7 +9,6 @@ Hello Everyone! My name is Nadhir Adhitya Zhalifunnas.
      - Web Developer : HTML, CSS, SASS , JavaScript, PHP, Laravel, CodeIgniter, TailwindCSS, BootstrapCSS, Node.js, Next.js, React.js
      - Database Management : MySQL, MongoDB
 
-- 🃏 Fun Fact From Me : I liked to play counter-strike and watch a movie if i'm free. And i want to be Gojo Satorou (just kidding).
 
 
 ### My Skills
