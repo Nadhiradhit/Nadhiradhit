@@ -19,8 +19,6 @@ Hello Everyone! My name is Nadhir Adhitya Zhalifunnas.
      
 </p>
 
-### Badges
-
 <b>My Stats</b>
 
 <a href="http://www.github.com/Nadhiradhit"><img src="https://github-readme-stats.vercel.app/api?username=Nadhiradhit&show_icons=true&hide=stars,contribs&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nadhiradhit's GitHub stats" /></a>
