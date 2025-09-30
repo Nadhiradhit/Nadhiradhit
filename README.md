@@ -6,7 +6,7 @@ Hello Everyone! My name is Nadhir Adhitya Zhalifunnas.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhiradhit&label=Seen&color=accadc&style=flat-square" alt="nadhiradhit" /> </p>
 
 - 🛠️ I Experienced :
-     - Web Developer : HTML, CSS, SASS , JavaScript, PHP, Laravel, CodeIgniter, TailwindCSS, BootstrapCSS, Node.js, Next.js, React.js
+     - Web Developer : HTML, CSS, SASS , JavaScript, PHP, Laravel, TailwindCSS, BootstrapCSS, Node.js, Next.js, React.js
      - Database Management : MySQL, MongoDB
 
 
