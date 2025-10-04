@@ -7,7 +7,7 @@ Hello Everyone! My name is Nadhir Adhitya Zhalifunnas.
 
 - 🛠️ I Experienced :
      - Web Developer : HTML, CSS, SASS , JavaScript, PHP, Laravel, TailwindCSS, BootstrapCSS, Node.js, Next.js, React.js
-     - Database Management : MySQL, MongoDB
+     - Database Management : MySQL, MongoDB, PostgreSQL
 
 
 
