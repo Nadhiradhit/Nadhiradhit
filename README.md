@@ -4,6 +4,7 @@ Hello Everyone! My name is Nadhir Adhitya Zhalifunnas.
 <h3 align="center">I'm interested with a Full Stack Developer and Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhiradhit&label=Seen&color=accadc&style=flat-square" alt="nadhiradhit" /> </p>
+<p align="left">Recently I learn mobile developer, using react native</p>
 
 - 🛠️ I Experienced :
      - Web Developer : HTML, CSS, SASS , JavaScript, PHP, Laravel, TailwindCSS, BootstrapCSS, Node.js, Next.js, React.js
